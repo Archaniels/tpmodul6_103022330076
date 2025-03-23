@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul6_103022330076\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{604D8C6F-9424-4DA5-8840-D6CFCDFF42B0}|tpmodul6_103022330076.csproj|c:\\users\\sxpix\\documents\\~~~ codes\\visual studio 2022\\tpmodul6_103022330076\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604D8C6F-9424-4DA5-8840-D6CFCDFF42B0}|tpmodul6_103022330076.csproj|solutionrelative:sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{604D8C6F-9424-4DA5-8840-D6CFCDFF42B0}|tpmodul6_103022330076.csproj|c:\\users\\sxpix\\documents\\~~~ codes\\visual studio 2022\\tpmodul6_103022330076\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{604D8C6F-9424-4DA5-8840-D6CFCDFF42B0}|tpmodul6_103022330076.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SayaTubeVideo.cs",
+              "DocumentMoniker": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul6_103022330076\\SayaTubeVideo.cs",
+              "RelativeDocumentMoniker": "SayaTubeVideo.cs",
+              "ToolTip": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul6_103022330076\\SayaTubeVideo.cs",
+              "RelativeToolTip": "SayaTubeVideo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:07:18.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul6_103022330076\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
